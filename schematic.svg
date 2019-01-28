@@ -128,5 +128,5 @@
   </defs>
 
   <!-- Diagram for description of the problem -->
-  <use href="#everything" style="--vis-everything:visible; --vis-geo3:visible" />
+  <use href="#everything" style="--vis-everything:visible; --vis-geo1:visible; --vis-geo2:visible; --vis-geo3:visible; --vis-swingarm-tri:visible" />
 </svg>
